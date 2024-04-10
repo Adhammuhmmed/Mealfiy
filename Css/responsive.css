@@ -1,0 +1,88 @@
+
+@media (max-width: 768px) {
+    .continar {
+        width: 90%;
+    }
+  .navbar .continar .links {
+    display: none;
+  }
+
+  .navbar .continar .icons .hide {
+    display: unset;
+  }
+  .home .continar {
+    text-align: center;
+    padding-top: 70%;
+    flex-direction: column-reverse;
+  }
+
+  .home .continar .info {
+    width: 100%;
+  }
+  .home .continar .image {
+    width: 100%;
+  }
+
+  .home .continar .info .buttons {
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 25px;
+  }
+  .home .continar .info .buttons .book {
+    border-radius: 20px;
+    margin: 10px 0 5px;
+  }
+  .home .continar .info .buttons .video {
+    padding-top: 10px;
+    padding-left: 5px;
+  }
+  .chefs .continar .cards {
+    flex-direction: column;
+  }
+  .chefs .continar .cards .card {
+    width: 100%;
+  }
+
+  .gallery .continar {
+    flex-wrap: wrap;
+  }
+
+  .contact .continar .items .item {
+    width: 100%;
+  }
+
+  .contact .continar .form input {
+    width: 94.5%;
+    margin-top: 15px;
+  }
+  .footer .continar {
+    flex-direction: column;
+    padding-right: 40px;
+  }
+  .footer .continar .col-1 {
+    width: 100%;
+  }
+  .footer .continar .col-2 {
+    width: 100%;
+  }
+  .footer .continar .col-2 .text  {
+    padding: 0 15px;
+    line-height: 1.5;
+  }
+  .footer .continar .col-2 input {
+    width: 96%;
+  }
+  .footer .continar .col-2 button {
+    width: 100%;
+    margin-top: 15px;
+  }
+  .footer .continar .col-2 .links .links-items {
+    width: 100%;
+  }
+  .footer .continar .col-3 {
+    width: 100%;
+  }
+  .footer .continar .col-4 {
+    width: 100%;
+  }
+}
